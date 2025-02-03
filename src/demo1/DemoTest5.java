@@ -20,6 +20,7 @@ public class DemoTest5 {
 		} else {
 			System.out.println("Less");
 	}
+	}
 	
 	public void add (int a, int b) {
 		System.out.println(a + b);
